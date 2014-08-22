@@ -1,0 +1,400 @@
+
+ice.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg2
+  rotate: false
+  xy: 1, 225
+  size: 600, 798
+  orig: 600, 798
+  offset: 0, 0
+  index: -1
+result
+  rotate: false
+  xy: 603, 703
+  size: 329, 320
+  orig: 329, 320
+  offset: 0, 0
+  index: -1
+infoBg
+  rotate: false
+  xy: 1, 135
+  size: 405, 88
+  orig: 405, 88
+  offset: 0, 0
+  index: -1
+bonusbar
+  rotate: false
+  xy: 603, 687
+  size: 310, 14
+  orig: 310, 14
+  offset: 0, 0
+  index: -1
+bonusbar_fill
+  rotate: false
+  xy: 1, 123
+  size: 308, 10
+  orig: 308, 10
+  offset: 0, 0
+  index: -1
+bingqilin1
+  rotate: false
+  xy: 603, 505
+  size: 120, 180
+  orig: 120, 180
+  offset: 0, 0
+  index: -1
+bingqilin2
+  rotate: false
+  xy: 1, 1
+  size: 80, 120
+  orig: 80, 120
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 83, 51
+  size: 200, 70
+  orig: 200, 70
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 725, 557
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+time
+  rotate: false
+  xy: 603, 375
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 603, 258
+  size: 118, 115
+  orig: 118, 115
+  offset: 0, 0
+  index: -1
+bingqilin3
+  rotate: false
+  xy: 934, 893
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+bingqilin4
+  rotate: false
+  xy: 934, 761
+  size: 80, 130
+  orig: 80, 130
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 408, 108
+  size: 118, 115
+  orig: 118, 115
+  offset: 0, 0
+  index: -1
+lockbg
+  rotate: false
+  xy: 528, 137
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+stars
+  rotate: false
+  xy: 83, 11
+  size: 108, 38
+  orig: 108, 38
+  offset: 0, 0
+  index: -1
+unlockbg
+  rotate: false
+  xy: 855, 599
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 943, 679
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 943, 597
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btn_continue
+  rotate: false
+  xy: 616, 188
+  size: 125, 68
+  orig: 125, 68
+  offset: 0, 0
+  index: -1
+btn_continue_click
+  rotate: false
+  xy: 616, 118
+  size: 125, 68
+  orig: 125, 68
+  offset: 0, 0
+  index: -1
+btn_easy
+  rotate: false
+  xy: 733, 487
+  size: 125, 68
+  orig: 125, 68
+  offset: 0, 0
+  index: -1
+btn_easy_click
+  rotate: false
+  xy: 733, 417
+  size: 125, 68
+  orig: 125, 68
+  offset: 0, 0
+  index: -1
+btn_hard
+  rotate: false
+  xy: 733, 347
+  size: 125, 68
+  orig: 125, 68
+  offset: 0, 0
+  index: -1
+btn_hard_click
+  rotate: false
+  xy: 723, 277
+  size: 125, 68
+  orig: 125, 68
+  offset: 0, 0
+  index: -1
+btn_menu
+  rotate: false
+  xy: 743, 207
+  size: 125, 68
+  orig: 125, 68
+  offset: 0, 0
+  index: -1
+btn_menu_click
+  rotate: false
+  xy: 743, 137
+  size: 125, 68
+  orig: 125, 68
+  offset: 0, 0
+  index: -1
+btn_normal
+  rotate: false
+  xy: 743, 67
+  size: 125, 68
+  orig: 125, 68
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 860, 517
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 860, 435
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 860, 353
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 942, 515
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 942, 433
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 942, 351
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+cell1
+  rotate: false
+  xy: 528, 55
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btn_normal_click
+  rotate: false
+  xy: 610, 48
+  size: 125, 68
+  orig: 125, 68
+  offset: 0, 0
+  index: -1
+btn_retry
+  rotate: false
+  xy: 850, 277
+  size: 125, 68
+  orig: 125, 68
+  offset: 0, 0
+  index: -1
+btn_retry_click
+  rotate: false
+  xy: 870, 207
+  size: 125, 68
+  orig: 125, 68
+  offset: 0, 0
+  index: -1
+cell2
+  rotate: false
+  xy: 870, 125
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+cell_bg1
+  rotate: false
+  xy: 870, 43
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 952, 138
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+cell_bg2
+  rotate: false
+  xy: 285, 41
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+cell_bg3
+  rotate: false
+  xy: 367, 26
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+button_sound_off
+  rotate: false
+  xy: 952, 96
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+button_sound_on
+  rotate: false
+  xy: 449, 66
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+circle1
+  rotate: false
+  xy: 952, 54
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+circle2
+  rotate: false
+  xy: 193, 9
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+shandian
+  rotate: false
+  xy: 449, 34
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+shizi
+  rotate: false
+  xy: 491, 76
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+zhadan
+  rotate: false
+  xy: 235, 19
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+
+ice2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg3
+  rotate: false
+  xy: 1, 83
+  size: 512, 701
+  orig: 512, 701
+  offset: 0, 0
+  index: -1
+iceBg
+  rotate: false
+  xy: 515, 334
+  size: 450, 450
+  orig: 450, 450
+  offset: 0, 0
+  index: -1
+pauseButton
+  rotate: false
+  xy: 1, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+selected
+  rotate: false
+  xy: 515, 252
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+
+ice3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg1
+  rotate: false
+  xy: 1, 1
+  size: 512, 665
+  orig: 512, 665
+  offset: 0, 0
+  index: -1

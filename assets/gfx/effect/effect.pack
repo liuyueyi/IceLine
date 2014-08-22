@@ -1,0 +1,227 @@
+
+effect.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hline1
+  rotate: false
+  xy: 1, 431
+  size: 85, 570
+  orig: 85, 570
+  offset: 0, 0
+  index: -1
+ebomb1
+  rotate: false
+  xy: 1, 264
+  size: 143, 165
+  orig: 143, 165
+  offset: 0, 0
+  index: -1
+hline2
+  rotate: false
+  xy: 88, 431
+  size: 85, 570
+  orig: 85, 570
+  offset: 0, 0
+  index: -1
+ebomb2
+  rotate: false
+  xy: 1, 97
+  size: 143, 165
+  orig: 143, 165
+  offset: 0, 0
+  index: -1
+wline1
+  rotate: false
+  xy: 1, 10
+  size: 570, 85
+  orig: 570, 85
+  offset: 0, 0
+  index: -1
+ebomb3
+  rotate: false
+  xy: 146, 264
+  size: 143, 165
+  orig: 143, 165
+  offset: 0, 0
+  index: -1
+ebomb4
+  rotate: false
+  xy: 146, 97
+  size: 143, 165
+  orig: 143, 165
+  offset: 0, 0
+  index: -1
+hline3
+  rotate: false
+  xy: 175, 431
+  size: 85, 570
+  orig: 85, 570
+  offset: 0, 0
+  index: -1
+hline4
+  rotate: false
+  xy: 262, 431
+  size: 85, 570
+  orig: 85, 570
+  offset: 0, 0
+  index: -1
+wline2
+  rotate: false
+  xy: 349, 916
+  size: 570, 85
+  orig: 570, 85
+  offset: 0, 0
+  index: -1
+hline5
+  rotate: false
+  xy: 921, 431
+  size: 85, 570
+  orig: 85, 570
+  offset: 0, 0
+  index: -1
+wline3
+  rotate: false
+  xy: 349, 829
+  size: 570, 85
+  orig: 570, 85
+  offset: 0, 0
+  index: -1
+wline4
+  rotate: false
+  xy: 349, 742
+  size: 570, 85
+  orig: 570, 85
+  offset: 0, 0
+  index: -1
+wline5
+  rotate: false
+  xy: 349, 655
+  size: 570, 85
+  orig: 570, 85
+  offset: 0, 0
+  index: -1
+laserw1
+  rotate: false
+  xy: 349, 585
+  size: 570, 68
+  orig: 570, 68
+  offset: 0, 0
+  index: -1
+laserw2
+  rotate: false
+  xy: 349, 515
+  size: 570, 68
+  orig: 570, 68
+  offset: 0, 0
+  index: -1
+laserw3
+  rotate: false
+  xy: 349, 445
+  size: 570, 68
+  orig: 570, 68
+  offset: 0, 0
+  index: -1
+laserw4
+  rotate: false
+  xy: 349, 375
+  size: 570, 68
+  orig: 570, 68
+  offset: 0, 0
+  index: -1
+ebomb5
+  rotate: false
+  xy: 291, 208
+  size: 143, 165
+  orig: 143, 165
+  offset: 0, 0
+  index: -1
+laserw5
+  rotate: false
+  xy: 436, 305
+  size: 570, 68
+  orig: 570, 68
+  offset: 0, 0
+  index: -1
+bomb1
+  rotate: false
+  xy: 436, 153
+  size: 174, 150
+  orig: 174, 150
+  offset: 0, 0
+  index: -1
+bomb2
+  rotate: false
+  xy: 573, 1
+  size: 174, 150
+  orig: 174, 150
+  offset: 0, 0
+  index: -1
+bomb3
+  rotate: false
+  xy: 612, 153
+  size: 174, 150
+  orig: 174, 150
+  offset: 0, 0
+  index: -1
+bomb4
+  rotate: false
+  xy: 749, 1
+  size: 174, 150
+  orig: 174, 150
+  offset: 0, 0
+  index: -1
+bomb5
+  rotate: false
+  xy: 788, 153
+  size: 174, 150
+  orig: 174, 150
+  offset: 0, 0
+  index: -1
+
+effect2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+laser5
+  rotate: false
+  xy: 1, 1
+  size: 68, 570
+  orig: 68, 570
+  offset: 0, 0
+  index: -1
+laserh5
+  rotate: false
+  xy: 1, 1
+  size: 68, 570
+  orig: 68, 570
+  offset: 0, 0
+  index: -1
+laserh1
+  rotate: false
+  xy: 71, 1
+  size: 68, 570
+  orig: 68, 570
+  offset: 0, 0
+  index: -1
+laserh2
+  rotate: false
+  xy: 141, 1
+  size: 68, 570
+  orig: 68, 570
+  offset: 0, 0
+  index: -1
+laserh3
+  rotate: false
+  xy: 211, 1
+  size: 68, 570
+  orig: 68, 570
+  offset: 0, 0
+  index: -1
+laserh4
+  rotate: false
+  xy: 281, 1
+  size: 68, 570
+  orig: 68, 570
+  offset: 0, 0
+  index: -1
